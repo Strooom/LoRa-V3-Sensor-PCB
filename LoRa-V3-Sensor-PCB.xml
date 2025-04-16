@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/LoRa-V3-Sensor-PCB.kicad_sch</source>
+    <date>Date1</date>
+    <tool>Eeschema 8.0.8+1</tool>
+    <textvar name="majorVersion">0</textvar>
+    <textvar name="minorVersion">1</textvar>
+    <textvar name="releaseDate">Wed Apr 16 13:04:07 2025</textvar>
+    <textvar name="releaseDateShort">2025-04-16</textvar>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>LoRa-V3-Sensor-PCB.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>1projectfootprints:C_0603_nominal</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf?ref_disty=mouser</datasheet>
+      <description>power decoupling</description>
+      <fields>
+        <field name="manufacturerName">TDK</field>
+        <field name="octopartUrl">https://octopart.com/cga3e2x7r1e104k080aa-tdk-25947977?r=sp</field>
+        <field name="genericPartNumber">GPC0603104-25-X7R</field>
+        <field name="manufacturerPartNumber">CGA3E2X7R1E104K080AA</field>
+        <field name="Footprint">1projectfootprints:C_0603_nominal</field>
+        <field name="Datasheet">https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf?ref_disty=mouser</field>
+        <field name="Description">power decoupling</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="manufacturerName" value="TDK"/>
+      <property name="octopartUrl" value="https://octopart.com/cga3e2x7r1e104k080aa-tdk-25947977?r=sp"/>
+      <property name="genericPartNumber" value="GPC0603104-25-X7R"/>
+      <property name="manufacturerPartNumber" value="CGA3E2X7R1E104K080AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LoRa-V3-Sensor-PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e6b9990-ee41-4854-888c-97780fb10280</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>1projectfootprints:C_0603_nominal</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf?ref_disty=mouser</datasheet>
+      <description>power decoupling</description>
+      <fields>
+        <field name="manufacturerName">TDK</field>
+        <field name="octopartUrl">https://octopart.com/cga3e2x7r1e104k080aa-tdk-25947977?r=sp</field>
+        <field name="genericPartNumber">GPC0603104-25-X7R</field>
+        <field name="manufacturerPartNumber">CGA3E2X7R1E104K080AA</field>
+        <field name="Footprint">1projectfootprints:C_0603_nominal</field>
+        <field name="Datasheet">https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf?ref_disty=mouser</field>
+        <field name="Description">power decoupling</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="manufacturerName" value="TDK"/>
+      <property name="octopartUrl" value="https://octopart.com/cga3e2x7r1e104k080aa-tdk-25947977?r=sp"/>
+      <property name="genericPartNumber" value="GPC0603104-25-X7R"/>
+      <property name="manufacturerPartNumber" value="CGA3E2X7R1E104K080AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LoRa-V3-Sensor-PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57277702-6c36-4488-914e-207c18694229</tstamps>
+    </comp>
+    <comp ref="CONN1">
+      <value>Conn_01x08_Pin</value>
+      <footprint>1projectfootprints:GCT_BC034-08-A-V-0150-L-C</footprint>
+      <datasheet>https://www.mouser.be/datasheet/2/837/BC034-2721639.pdf</datasheet>
+      <fields>
+        <field name="manufacturerName">GCT</field>
+        <field name="manufacturerPartNumber">BC034-08-A-V-0150-L-C</field>
+        <field name="Footprint">1projectfootprints:GCT_BC034-08-A-V-0150-L-C</field>
+        <field name="Datasheet">https://www.mouser.be/datasheet/2/837/BC034-2721639.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="1projectsymbols" part="Conn_01x08_Pin" description=""/>
+      <property name="manufacturerName" value="GCT"/>
+      <property name="manufacturerPartNumber" value="BC034-08-A-V-0150-L-C"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LoRa-V3-Sensor-PCB.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e20a7e5-33ea-4654-9f82-23248752351a</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>BME690</value>
+      <footprint>thisProjectLibrary:Bosch_BME680</footprint>
+      <datasheet>https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME680-DS001.pdf</datasheet>
+      <description>4-in-1 sensor, gas, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8</description>
+      <fields>
+        <field name="manufacturerName">Bosch Sensortec</field>
+        <field name="manufacturerPartNumber">BME690</field>
+        <field name="Footprint">thisProjectLibrary:Bosch_BME680</field>
+        <field name="Datasheet">https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME680-DS001.pdf</field>
+        <field name="Description">4-in-1 sensor, gas, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8</field>
+      </fields>
+      <libsource lib="1projectsymbols" part="BME680" description="4-in-1 sensor, gas, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8"/>
+      <property name="manufacturerName" value="Bosch Sensortec"/>
+      <property name="manufacturerPartNumber" value="BME690"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LoRa-V3-Sensor-PCB.kicad_sch"/>
+      <property name="ki_keywords" value="Bosch gas pressure humidity temperature environment environmental measurement digital"/>
+      <property name="ki_fp_filters" value="*LGA*3x3mm*P0.8mm*Clockwise*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b857761a-0aa3-42ff-98e0-d96cb74a97be</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>SHT40-BD1B-R2</value>
+      <footprint>1projectLibrary:SHT4X</footprint>
+      <datasheet>https://www.mouser.be/datasheet/2/682/Sensirion_Datasheet_SHT4x-2936319.pdf</datasheet>
+      <description>Digital Relative Humidity Temperature Sensor</description>
+      <fields>
+        <field name="manufacturerName">Sensirion</field>
+        <field name="octopartUrl">https://octopart.com/sht40-bd1b-r2-sensirion-137454263?r=sp</field>
+        <field name="manufacturerPartNumber">SHT40-BD1B-R2</field>
+        <field name="Footprint">1projectLibrary:SHT4X</field>
+        <field name="Datasheet">https://www.mouser.be/datasheet/2/682/Sensirion_Datasheet_SHT4x-2936319.pdf</field>
+        <field name="Description">Digital Relative Humidity Temperature Sensor</field>
+      </fields>
+      <libsource lib="1projectsymbols" part="SHT40" description="Digital Relative Humidity Temperature Sensor"/>
+      <property name="manufacturerName" value="Sensirion"/>
+      <property name="octopartUrl" value="https://octopart.com/sht40-bd1b-r2-sensirion-137454263?r=sp"/>
+      <property name="manufacturerPartNumber" value="SHT40-BD1B-R2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LoRa-V3-Sensor-PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e30b849-0f13-4ea3-971e-11811d1e4435</tstamps>
+    </comp>
+    <comp ref="IC3">
+      <value>TSL25911FN</value>
+      <footprint>1GlobalFootprintsLibrary:TSL2591</footprint>
+      <datasheet>https://ams.com/documents/20143/36005/TSL2591_DS000338_6-00.pdf/090eb50d-bb18-5b45-4938-9b3672f86b80</datasheet>
+      <description>Light to Digital Converters Hi-Sensitvty Ambient Light Sensor IC</description>
+      <fields>
+        <field name="manufacturerName">ams Osram</field>
+        <field name="octopartUrl">https://octopart.com/tsl25911fn-osram-126135547?r=sp</field>
+        <field name="manufacturerPartNumber">TSL25911FN</field>
+        <field name="Footprint">1GlobalFootprintsLibrary:TSL2591</field>
+        <field name="Datasheet">https://ams.com/documents/20143/36005/TSL2591_DS000338_6-00.pdf/090eb50d-bb18-5b45-4938-9b3672f86b80</field>
+        <field name="Description">Light to Digital Converters Hi-Sensitvty Ambient Light Sensor IC</field>
+      </fields>
+      <libsource lib="1projectsymbols" part="TSL2591" description="Light to Digital Converters Hi-Sensitvty Ambient Light Sensor IC"/>
+      <property name="manufacturerName" value="ams Osram"/>
+      <property name="octopartUrl" value="https://octopart.com/tsl25911fn-osram-126135547?r=sp"/>
+      <property name="manufacturerPartNumber" value="TSL25911FN"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LoRa-V3-Sensor-PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0ad950b-a359-4fe3-a656-81aa7e7b2ddf</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="1projectsymbols" part="BME680">
+      <description>4-in-1 sensor, gas, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8</description>
+      <docs>https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME680-DS001.pdf</docs>
+      <footprints>
+        <fp>*LGA*3x3mm*P0.8mm*Clockwise*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U1</field>
+        <field name="Value">BME690</field>
+        <field name="Footprint">thisProjectLibrary:Bosch_BME680</field>
+        <field name="Datasheet">https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME680-DS001.pdf</field>
+        <field name="Description">4-in-1 sensor, gas, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8</field>
+        <field name="manufacturerName">Bosch Sensortec</field>
+        <field name="manufacturerPartNumber">BME690</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="CSB" type="input"/>
+        <pin num="3" name="SDA" type="bidirectional"/>
+        <pin num="4" name="SCL" type="input"/>
+        <pin num="5" name="SDO" type="input"/>
+        <pin num="6" name="VDDIO" type="power_in"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="1projectsymbols" part="Conn_01x08_Pin">
+      <docs>https://www.mouser.be/datasheet/2/837/BC034-2721639.pdf</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">CONN</field>
+        <field name="Value">Conn_01x08_Pin</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">https://www.mouser.be/datasheet/2/837/BC034-2721639.pdf</field>
+        <field name="Description"/>
+        <field name="manufacturerName">GCT</field>
+        <field name="manufacturerPartNumber">BC034-08-A-V-0150-L-C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_out"/>
+        <pin num="2" name="3.3V" type="power_out"/>
+        <pin num="3" name="SCL" type="output"/>
+        <pin num="4" name="SDA" type="bidirectional"/>
+        <pin num="5" name="SDA" type="passive"/>
+        <pin num="6" name="SCL" type="passive"/>
+        <pin num="7" name="3.3V" type="passive"/>
+        <pin num="8" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="1projectsymbols" part="SHT40">
+      <description>Digital Relative Humidity Temperature Sensor</description>
+      <docs>https://www.mouser.be/datasheet/2/682/Sensirion_Datasheet_SHT4x-2936319.pdf</docs>
+      <fields>
+        <field name="Reference">U3</field>
+        <field name="Value">SHT40</field>
+        <field name="Footprint">1projectLibrary:SHT4X</field>
+        <field name="Datasheet">https://www.mouser.be/datasheet/2/682/Sensirion_Datasheet_SHT4x-2936319.pdf</field>
+        <field name="Description">Digital Relative Humidity Temperature Sensor</field>
+        <field name="manufacturerPartNumber">SHT40-BD1B-R2</field>
+        <field name="manufacturerName">Sensirion</field>
+        <field name="octopartUrl">https://octopart.com/sht40-bd1b-r2-sensirion-137454263?r=sp</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SDA" type="bidirectional"/>
+        <pin num="2" name="SCL" type="input"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="1projectsymbols" part="TSL2591">
+      <description>Light to Digital Converters Hi-Sensitvty Ambient Light Sensor IC</description>
+      <docs>https://ams.com/documents/20143/36005/TSL2591_DS000338_6-00.pdf/090eb50d-bb18-5b45-4938-9b3672f86b80</docs>
+      <fields>
+        <field name="Reference">U4</field>
+        <field name="Value">TSL25911</field>
+        <field name="Footprint">1GlobalFootprintsLibrary:TSL2591</field>
+        <field name="Datasheet">https://ams.com/documents/20143/36005/TSL2591_DS000338_6-00.pdf/090eb50d-bb18-5b45-4938-9b3672f86b80</field>
+        <field name="Description">Light to Digital Converters Hi-Sensitvty Ambient Light Sensor IC</field>
+        <field name="manufacturerName">ams Osram</field>
+        <field name="manufacturerPartNumber">TSL25911FN</field>
+        <field name="octopartUrl">https://octopart.com/tsl25911fn-osram-126135547?r=sp</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SCL" type="input"/>
+        <pin num="2" name="INT" type="no_connect"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="VDD" type="power_in"/>
+        <pin num="6" name="SDA" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="1projectsymbols">
+      <uri>/github/workspace/inputs/libraries/1projectsymbols.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols/Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="3.3V">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="CONN1" pin="2" pinfunction="3.3V" pintype="power_out"/>
+      <node ref="CONN1" pin="7" pinfunction="3.3V" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="CSB" pintype="input"/>
+      <node ref="IC1" pin="6" pinfunction="VDDIO" pintype="power_in"/>
+      <node ref="IC1" pin="8" pinfunction="VDD" pintype="power_in"/>
+      <node ref="IC2" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="IC3" pin="5" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="CONN1" pin="1" pinfunction="GND" pintype="power_out"/>
+      <node ref="CONN1" pin="8" pinfunction="GND" pintype="passive"/>
+      <node ref="IC1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC1" pin="5" pinfunction="SDO" pintype="input"/>
+      <node ref="IC1" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC2" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC3" pin="3" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="3" name="SCL">
+      <node ref="CONN1" pin="3" pinfunction="SCL" pintype="output"/>
+      <node ref="CONN1" pin="6" pinfunction="SCL" pintype="passive"/>
+      <node ref="IC1" pin="4" pinfunction="SCL" pintype="input"/>
+      <node ref="IC2" pin="2" pinfunction="SCL" pintype="input"/>
+      <node ref="IC3" pin="1" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="4" name="SDA">
+      <node ref="CONN1" pin="4" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="CONN1" pin="5" pinfunction="SDA" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="IC2" pin="1" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="IC3" pin="6" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="unconnected-(IC3-INT-Pad2)">
+      <node ref="IC3" pin="2" pinfunction="INT" pintype="no_connect"/>
+    </net>
+    <net code="6" name="unconnected-(IC3-NC-Pad4)">
+      <node ref="IC3" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>

@@ -1,0 +1,6 @@
+#,references,amount,manufacturer,partNumber
+1,C2 C3,2,TDK,CGA3E2X7R1E104K080AA
+2,CONN1,1,GCT,BC034-08-A-V-0150-L-C
+3,IC1,1,Bosch Sensortec,BME680
+4,IC2,1,Sensirion,SHT40-BD1B-R2
+5,IC3,1,ams Osram,TSL25911FN
