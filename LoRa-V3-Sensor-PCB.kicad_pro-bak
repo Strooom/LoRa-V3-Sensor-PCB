@@ -217,7 +217,7 @@
           "drill": 0.3
         }
       ],
-      "zones_allow_external_fillets": false
+      "zones_allow_external_fillets": true
     },
     "ipc2581": {
       "dist": "",
@@ -489,7 +489,7 @@
       "specctra_dsn": "",
       "step": "",
       "svg": "",
-      "vrml": "../../tmp/tmp3jo6n1ub/pcb.wrl"
+      "vrml": "../../tmp/tmpbcmxf1c2/pcb.wrl"
     },
     "page_layout_descr_file": ""
   },
@@ -636,8 +636,8 @@
   ],
   "text_variables": {
     "majorVersion": "0",
-    "minorVersion": "4",
-    "releaseDate": "Wed Apr 16 15:20:23 2025",
+    "minorVersion": "5",
+    "releaseDate": "Wed Apr 16 19:08:44 2025",
     "releaseDateShort": "2025-04-16"
   }
 }

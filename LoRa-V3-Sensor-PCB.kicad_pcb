@@ -985,7 +985,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "c2561b60-4d61-46a9-967f-3a67b70283f9")
@@ -997,7 +997,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "365c8062-48f1-435f-b5bd-e055c55c15ad")
@@ -1145,7 +1145,7 @@
 			(uuid "2aced4e2-37bb-424c-8efa-230a5ac76682")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9ba0c3ec-7699-4080-b2bd-413aafde7fc0")
@@ -1193,7 +1193,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C2"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "9a0a77d9-fa32-4b59-8189-aa8c7b5526d7")
@@ -1205,7 +1205,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "470462e0-32ad-49b0-9707-e84d3cfe8608")
@@ -1353,7 +1353,7 @@
 			(uuid "486ae759-eafb-46c0-9dca-ab5df69e3749")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "336a0ead-36ea-4f34-ba43-667198fd7238")
@@ -1399,7 +1399,7 @@
 		(uuid "0da66069-d156-4213-a994-a55877b77e1e")
 		(at 150.5 89.05 180)
 		(property "Reference" "IC3"
-			(at 0.5 2 360)
+			(at 0.5 2 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "aedcc03d-00ef-4100-b55a-e3abf44594ee")
@@ -1412,7 +1412,7 @@
 			)
 		)
 		(property "Value" "TSL25911FN"
-			(at 0 -2.25 360)
+			(at 0 -2.25 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "122ac8a9-05b1-48c5-8a70-9e66041dcd5b")

@@ -5,8 +5,8 @@
     <date>Date1</date>
     <tool>Eeschema 8.0.8+1</tool>
     <textvar name="majorVersion">0</textvar>
-    <textvar name="minorVersion">4</textvar>
-    <textvar name="releaseDate">Wed Apr 16 15:20:23 2025</textvar>
+    <textvar name="minorVersion">5</textvar>
+    <textvar name="releaseDate">Wed Apr 16 19:08:44 2025</textvar>
     <textvar name="releaseDateShort">2025-04-16</textvar>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -313,15 +313,15 @@
       <node ref="IC3" pin="3" pinfunction="GND" pintype="power_in"/>
     </net>
     <net code="3" name="SCL">
-      <node ref="CONN1" pin="3" pinfunction="SCL" pintype="output"/>
-      <node ref="CONN1" pin="6" pinfunction="SCL" pintype="passive"/>
+      <node ref="CONN1" pin="4" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="CONN1" pin="5" pinfunction="SDA" pintype="passive"/>
       <node ref="IC1" pin="4" pinfunction="SCL" pintype="input"/>
       <node ref="IC2" pin="2" pinfunction="SCL" pintype="input"/>
       <node ref="IC3" pin="1" pinfunction="SCL" pintype="input"/>
     </net>
     <net code="4" name="SDA">
-      <node ref="CONN1" pin="4" pinfunction="SDA" pintype="bidirectional"/>
-      <node ref="CONN1" pin="5" pinfunction="SDA" pintype="passive"/>
+      <node ref="CONN1" pin="3" pinfunction="SCL" pintype="output"/>
+      <node ref="CONN1" pin="6" pinfunction="SCL" pintype="passive"/>
       <node ref="IC1" pin="3" pinfunction="SDA" pintype="bidirectional"/>
       <node ref="IC2" pin="1" pinfunction="SDA" pintype="bidirectional"/>
       <node ref="IC3" pin="6" pinfunction="SDA" pintype="bidirectional"/>
