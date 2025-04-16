@@ -18,7 +18,7 @@
 					(justify right)
 				)
 			)
-			(property "Value" "BME680"
+			(property "Value" "BME690"
 				(at 11.43 -12.7 0)
 				(effects
 					(font
@@ -63,25 +63,7 @@
 					(hide yes)
 				)
 			)
-			(property "mouserPartNumber" "262-BME680"
-				(at 0 40.64 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "digikeyPartNumber" "828-1077-1-ND"
-				(at -1.27 48.26 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "manufacturerPartNumber" "BME680"
+			(property "manufacturerPartNumber" "BME690"
 				(at 0 45.72 0)
 				(effects
 					(font
@@ -744,15 +726,6 @@
 					(hide yes)
 				)
 			)
-			(property "mouserPartNumber" "403-SHT40-AD1F-R2"
-				(at 0 -19.05 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
 			(property "manufacturerName" "Sensirion"
 				(at 0 -25.4 0)
 				(effects
@@ -912,24 +885,6 @@
 			)
 			(property "manufacturerName" "ams Osram"
 				(at 0 -12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "mouserPartNumber" "985-TSL25911FN"
-				(at 0 -31.75 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "digikeyPartNumber" "TSL25911FNCT-ND"
-				(at 0 -27.94 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2102,7 +2057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "1projectfootprints:SHT4X"
+		(property "Footprint" "1projectLibrary:SHT4X"
 			(at 153.67 140.97 0)
 			(effects
 				(font
@@ -2151,15 +2106,6 @@
 		)
 		(property "manufacturerPartNumber" "SHT40-BD1B-R2"
 			(at 153.67 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "mouserPartNumber" "403-SHT40-AD1F-R2"
-			(at 153.67 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2531,7 +2477,7 @@
 				)
 			)
 		)
-		(property "Footprint" "1projectfootprints:TSL2591"
+		(property "Footprint" "1GlobalFootprintsLibrary:TSL2591"
 			(at 180.34 129.54 0)
 			(effects
 				(font
@@ -2579,24 +2525,6 @@
 		)
 		(property "manufacturerPartNumber" "TSL25911FN"
 			(at 180.34 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "mouserPartNumber" "985-TSL25911FN"
-			(at 180.34 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "digikeyPartNumber" "TSL25911FNCT-ND"
-			(at 180.34 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2659,7 +2587,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "1projectfootprints:BME68X"
+		(property "Footprint" "thisProjectLibrary:Bosch_BME680"
 			(at 163.83 121.92 0)
 			(effects
 				(font
@@ -2695,35 +2623,8 @@
 				(hide yes)
 			)
 		)
-		(property "octopartUrl" "https://octopart.com/bme680-bosch+tools-84623084?r=sp"
-			(at 127 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "manufacturerPartNumber" "BME680"
+		(property "manufacturerPartNumber" "BME690"
 			(at 127 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "mouserPartNumber" "262-BME680"
-			(at 127 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "digikeyPartNumber" "828-1077-1-ND"
-			(at 125.73 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)

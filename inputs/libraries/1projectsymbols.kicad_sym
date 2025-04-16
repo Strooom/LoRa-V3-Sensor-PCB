@@ -15,7 +15,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "BME680"
+		(property "Value" "BME690"
 			(at 11.43 -12.7 0)
 			(effects
 				(font
@@ -60,25 +60,7 @@
 				(hide yes)
 			)
 		)
-		(property "mouserPartNumber" "262-BME680"
-			(at 0 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "digikeyPartNumber" "828-1077-1-ND"
-			(at -1.27 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "manufacturerPartNumber" "BME680"
+		(property "manufacturerPartNumber" "BME690"
 			(at 0 45.72 0)
 			(effects
 				(font
@@ -741,15 +723,6 @@
 				(hide yes)
 			)
 		)
-		(property "mouserPartNumber" "403-SHT40-AD1F-R2"
-			(at 0 -19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "manufacturerName" "Sensirion"
 			(at 0 -25.4 0)
 			(effects
@@ -909,24 +882,6 @@
 		)
 		(property "manufacturerName" "ams Osram"
 			(at 0 -12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "mouserPartNumber" "985-TSL25911FN"
-			(at 0 -31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "digikeyPartNumber" "TSL25911FNCT-ND"
-			(at 0 -27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
