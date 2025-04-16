@@ -636,8 +636,8 @@
   ],
   "text_variables": {
     "majorVersion": "0",
-    "minorVersion": "1",
-    "releaseDate": "Wed Apr 16 13:04:07 2025",
+    "minorVersion": "2",
+    "releaseDate": "Wed Apr 16 13:20:30 2025",
     "releaseDateShort": "2025-04-16"
   }
 }

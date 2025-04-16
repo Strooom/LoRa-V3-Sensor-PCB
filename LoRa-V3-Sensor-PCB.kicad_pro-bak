@@ -489,7 +489,7 @@
       "specctra_dsn": "",
       "step": "",
       "svg": "",
-      "vrml": "../../tmp/tmp4ijdg39i/pcb.wrl"
+      "vrml": "../../tmp/tmph5_awo4r/pcb.wrl"
     },
     "page_layout_descr_file": ""
   },
@@ -556,7 +556,7 @@
           "group_by": false,
           "label": "genericPartNumber",
           "name": "genericPartNumber",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -568,7 +568,7 @@
           "group_by": false,
           "label": "manufacturerPartNumber",
           "name": "manufacturerPartNumber",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -636,8 +636,8 @@
   ],
   "text_variables": {
     "majorVersion": "0",
-    "minorVersion": "1",
-    "releaseDate": "Wed Apr 16 13:04:07 2025",
+    "minorVersion": "2",
+    "releaseDate": "Wed Apr 16 13:20:30 2025",
     "releaseDateShort": "2025-04-16"
   }
 }
