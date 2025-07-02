@@ -50,7 +50,7 @@ outputs:
         resolution_x: 1000
         resolution_y: 1600
       point_of_view:
-        - rotate_z: 0
+        - rotate_z: 180
           rotate_x: 180
           rotate_y: 0
       fixed_auto_camera: false

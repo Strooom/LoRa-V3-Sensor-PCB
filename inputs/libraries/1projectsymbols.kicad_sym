@@ -249,7 +249,8 @@
 	)
 	(symbol "Conn_01x08_Pin"
 		(pin_names
-			(offset 1.016) hide)
+			(offset 1.016)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -332,6 +333,17 @@
 			)
 		)
 		(symbol "Conn_01x08_Pin_1_1"
+			(rectangle
+				(start 0 -10.033)
+				(end 0.8636 -10.287)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
 			(polyline
 				(pts
 					(xy 1.27 -10.16) (xy 0.8636 -10.16)
@@ -426,17 +438,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(rectangle
-				(start 0.8636 -10.033)
-				(end 0 -10.287)
-				(stroke
-					(width 0.1524)
-					(type default)
-				)
-				(fill
-					(type outline)
 				)
 			)
 			(rectangle
@@ -552,10 +553,10 @@
 					)
 				)
 			)
-			(pin output line
+			(pin bidirectional line
 				(at 5.08 2.54 180)
 				(length 3.81)
-				(name "SCL"
+				(name "SDA"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -570,10 +571,10 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin output line
 				(at 5.08 0 180)
 				(length 3.81)
-				(name "SDA"
+				(name "SCL"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -591,7 +592,7 @@
 			(pin passive line
 				(at 5.08 -2.54 180)
 				(length 3.81)
-				(name "SDA"
+				(name "SCL"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -609,7 +610,7 @@
 			(pin passive line
 				(at 5.08 -5.08 180)
 				(length 3.81)
-				(name "SCL"
+				(name "SDA"
 					(effects
 						(font
 							(size 1.27 1.27)
