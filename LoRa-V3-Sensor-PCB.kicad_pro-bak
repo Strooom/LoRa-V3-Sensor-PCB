@@ -489,7 +489,7 @@
       "specctra_dsn": "",
       "step": "",
       "svg": "",
-      "vrml": "../../tmp/tmpr386b9yo/pcb.wrl"
+      "vrml": "../../tmp/tmp8uukle6o/pcb.wrl"
     },
     "page_layout_descr_file": ""
   },
@@ -642,8 +642,8 @@
   ],
   "text_variables": {
     "majorVersion": "0",
-    "minorVersion": "6",
-    "releaseDate": "Wed Oct 15 12:03:39 2025",
+    "minorVersion": "7",
+    "releaseDate": "Wed Oct 15 14:25:42 2025",
     "releaseDateShort": "2025-10-15"
   }
 }
