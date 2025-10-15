@@ -120,6 +120,10 @@
 			(outputdirectory "")
 		)
 	)
+	(property "majorVersion" "0")
+	(property "minorVersion" "6")
+	(property "releaseDate" "Wed Oct 15 12:03:39 2025")
+	(property "releaseDateShort" "2025-10-15")
 	(net 0 "")
 	(net 1 "GND")
 	(net 2 "unconnected-(IC3-INT-Pad2)")
@@ -210,6 +214,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "98c08ccc-2324-402d-9acd-303c0f6ab1d2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "BC034-08-A-V-0150-L-C"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "825a494d-61ec-4e69-9c4c-0b5f64113103")
 			(effects
 				(font
 					(size 1 1)
@@ -462,7 +479,7 @@
 				)
 			)
 		)
-		(property "Value" "BME690"
+		(property "Value" "BME680"
 			(at 0 2.45 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -526,12 +543,25 @@
 				)
 			)
 		)
-		(property "manufacturerPartNumber" "BME690"
+		(property "manufacturerPartNumber" "BME680"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6b176871-05f9-44c9-b62d-a718c1e509c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "BME680"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4d05d86f-2961-45d4-ace2-7ee17f5bd016")
 			(effects
 				(font
 					(size 1 1)
@@ -767,7 +797,7 @@
 				)
 			)
 		)
-		(property "Value" "SHT40-BD1B-R2"
+		(property "Value" "SHT45-AD1B-R2"
 			(at 0 2.25 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -844,7 +874,7 @@
 				)
 			)
 		)
-		(property "manufacturerPartNumber" "SHT40-BD1B-R2"
+		(property "manufacturerPartNumber" "SHT45-AD1B-R2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -857,12 +887,12 @@
 				)
 			)
 		)
-		(property "mouserPartNumber" "403-SHT40-AD1F-R2"
+		(property "mpn" "SHT45-AD1B-R2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1ca36edc-0650-4fa9-bdce-4e12de9ff623")
+			(uuid "411d63d2-3b10-48d4-8b00-75a79caa435e")
 			(effects
 				(font
 					(size 1 1)
@@ -1073,7 +1103,7 @@
 				)
 			)
 		)
-		(property "genericPartNumber" "GPC0603104-25-X7R"
+		(property "genericPartNumber" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1092,6 +1122,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "24914d86-0f5a-4fde-98c3-8a2b6a3cc6ad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "CGA3E2X7R1E104K080AA"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a0254743-62f9-4324-9da1-a38330312945")
 			(effects
 				(font
 					(size 1 1)
@@ -1281,7 +1324,7 @@
 				)
 			)
 		)
-		(property "genericPartNumber" "GPC0603104-25-X7R"
+		(property "genericPartNumber" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1300,6 +1343,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "08b78592-b4c9-4198-b3e9-095cf8a1cb78")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "CGA3E2X7R1E104K080AA"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "94ff6f90-8b75-45cd-b9a5-c6440cb7fb04")
 			(effects
 				(font
 					(size 1 1)
@@ -1508,26 +1564,12 @@
 				(justify mirror)
 			)
 		)
-		(property "mouserPartNumber" "985-TSL25911FN"
-			(at 0 0 0)
+		(property "mpn" "TSL25911FN"
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "d427b084-6dc0-4945-a53b-b86fb65f976f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "digikeyPartNumber" "TSL25911FNCT-ND"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "4d3349ee-230d-4906-9d22-b8879078a3f2")
+			(uuid "e89c0eb0-dfbc-4f04-b96c-42793232ffc7")
 			(effects
 				(font
 					(size 1 1)
