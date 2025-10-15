@@ -6,8 +6,8 @@
     <tool>Eeschema 8.0.8+1</tool>
     <textvar name="majorVersion">0</textvar>
     <textvar name="minorVersion">5</textvar>
-    <textvar name="releaseDate">Wed Apr 23 08:40:15 2025</textvar>
-    <textvar name="releaseDateShort">2025-04-23</textvar>
+    <textvar name="releaseDate">Wed Jul 02 09:05:13 2025</textvar>
+    <textvar name="releaseDateShort">2025-07-02</textvar>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -212,10 +212,10 @@
       <pins>
         <pin num="1" name="GND" type="power_out"/>
         <pin num="2" name="3.3V" type="power_out"/>
-        <pin num="3" name="SCL" type="output"/>
-        <pin num="4" name="SDA" type="bidirectional"/>
-        <pin num="5" name="SDA" type="passive"/>
-        <pin num="6" name="SCL" type="passive"/>
+        <pin num="3" name="SDA" type="bidirectional"/>
+        <pin num="4" name="SCL" type="output"/>
+        <pin num="5" name="SCL" type="passive"/>
+        <pin num="6" name="SDA" type="passive"/>
         <pin num="7" name="3.3V" type="passive"/>
         <pin num="8" name="GND" type="passive"/>
       </pins>
@@ -313,15 +313,15 @@
       <node ref="IC3" pin="3" pinfunction="GND" pintype="power_in"/>
     </net>
     <net code="3" name="SCL">
-      <node ref="CONN1" pin="4" pinfunction="SDA" pintype="bidirectional"/>
-      <node ref="CONN1" pin="5" pinfunction="SDA" pintype="passive"/>
+      <node ref="CONN1" pin="4" pinfunction="SCL" pintype="output"/>
+      <node ref="CONN1" pin="5" pinfunction="SCL" pintype="passive"/>
       <node ref="IC1" pin="4" pinfunction="SCL" pintype="input"/>
       <node ref="IC2" pin="2" pinfunction="SCL" pintype="input"/>
       <node ref="IC3" pin="1" pinfunction="SCL" pintype="input"/>
     </net>
     <net code="4" name="SDA">
-      <node ref="CONN1" pin="3" pinfunction="SCL" pintype="output"/>
-      <node ref="CONN1" pin="6" pinfunction="SCL" pintype="passive"/>
+      <node ref="CONN1" pin="3" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="CONN1" pin="6" pinfunction="SDA" pintype="passive"/>
       <node ref="IC1" pin="3" pinfunction="SDA" pintype="bidirectional"/>
       <node ref="IC2" pin="1" pinfunction="SDA" pintype="bidirectional"/>
       <node ref="IC3" pin="6" pinfunction="SDA" pintype="bidirectional"/>
