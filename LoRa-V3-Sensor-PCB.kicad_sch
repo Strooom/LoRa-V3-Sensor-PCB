@@ -2164,7 +2164,7 @@
 				)
 			)
 		)
-		(property "Value" "SHT40-BD1B-R2"
+		(property "Value" "SHT45-AD1B-R2"
 			(at 158.496 119.634 0)
 			(effects
 				(font
@@ -2219,7 +2219,7 @@
 				(hide yes)
 			)
 		)
-		(property "manufacturerPartNumber" "SHT40-BD1B-R2"
+		(property "manufacturerPartNumber" "SHT45-AD1B-R2"
 			(at 153.67 133.35 0)
 			(effects
 				(font
@@ -2693,7 +2693,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "BME690"
+		(property "Value" "BME680"
 			(at 134.747 119.634 0)
 			(effects
 				(font
@@ -2738,7 +2738,7 @@
 				(hide yes)
 			)
 		)
-		(property "manufacturerPartNumber" "BME690"
+		(property "manufacturerPartNumber" "BME680"
 			(at 127 64.77 0)
 			(effects
 				(font
