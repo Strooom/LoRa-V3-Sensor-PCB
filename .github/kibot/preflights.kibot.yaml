@@ -24,11 +24,11 @@ preflight:
 
     - field: mpn
       regex: '.*'
-      severity_missing: ignore
+      severity_missing: warning
 
     - field: genericPartNumber
       regex: '.*'
-      severity_missing: ignore
+      severity_missing: warning
 
     - field: octopartUrl
       regex: '^(https://.*|NA)$'
