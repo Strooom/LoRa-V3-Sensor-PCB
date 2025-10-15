@@ -5,8 +5,8 @@
     <date>Date1</date>
     <tool>Eeschema 8.0.8+1</tool>
     <textvar name="majorVersion">0</textvar>
-    <textvar name="minorVersion">5</textvar>
-    <textvar name="releaseDate">Wed Oct 15 10:06:32 2025</textvar>
+    <textvar name="minorVersion">6</textvar>
+    <textvar name="releaseDate">Wed Oct 15 11:50:40 2025</textvar>
     <textvar name="releaseDateShort">2025-10-15</textvar>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
