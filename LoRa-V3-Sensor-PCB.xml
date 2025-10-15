@@ -6,8 +6,8 @@
     <tool>Eeschema 8.0.8+1</tool>
     <textvar name="majorVersion">0</textvar>
     <textvar name="minorVersion">5</textvar>
-    <textvar name="releaseDate">Wed Jul 02 09:05:13 2025</textvar>
-    <textvar name="releaseDateShort">2025-07-02</textvar>
+    <textvar name="releaseDate">Wed Oct 15 09:52:12 2025</textvar>
+    <textvar name="releaseDateShort">2025-10-15</textvar>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -36,7 +36,7 @@
       <fields>
         <field name="manufacturerName">TDK</field>
         <field name="octopartUrl">https://octopart.com/cga3e2x7r1e104k080aa-tdk-25947977?r=sp</field>
-        <field name="genericPartNumber">GPC0603104-25-X7R</field>
+        <field name="genericPartNumber"/>
         <field name="manufacturerPartNumber">CGA3E2X7R1E104K080AA</field>
         <field name="Footprint">1projectfootprints:C_0603_nominal</field>
         <field name="Datasheet">https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf?ref_disty=mouser</field>
@@ -45,7 +45,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="manufacturerName" value="TDK"/>
       <property name="octopartUrl" value="https://octopart.com/cga3e2x7r1e104k080aa-tdk-25947977?r=sp"/>
-      <property name="genericPartNumber" value="GPC0603104-25-X7R"/>
+      <property name="genericPartNumber" value=""/>
       <property name="manufacturerPartNumber" value="CGA3E2X7R1E104K080AA"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LoRa-V3-Sensor-PCB.kicad_sch"/>
@@ -62,7 +62,7 @@
       <fields>
         <field name="manufacturerName">TDK</field>
         <field name="octopartUrl">https://octopart.com/cga3e2x7r1e104k080aa-tdk-25947977?r=sp</field>
-        <field name="genericPartNumber">GPC0603104-25-X7R</field>
+        <field name="genericPartNumber"/>
         <field name="manufacturerPartNumber">CGA3E2X7R1E104K080AA</field>
         <field name="Footprint">1projectfootprints:C_0603_nominal</field>
         <field name="Datasheet">https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf?ref_disty=mouser</field>
@@ -71,7 +71,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="manufacturerName" value="TDK"/>
       <property name="octopartUrl" value="https://octopart.com/cga3e2x7r1e104k080aa-tdk-25947977?r=sp"/>
-      <property name="genericPartNumber" value="GPC0603104-25-X7R"/>
+      <property name="genericPartNumber" value=""/>
       <property name="manufacturerPartNumber" value="CGA3E2X7R1E104K080AA"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LoRa-V3-Sensor-PCB.kicad_sch"/>
