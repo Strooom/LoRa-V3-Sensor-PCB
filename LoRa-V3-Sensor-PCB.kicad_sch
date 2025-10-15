@@ -2228,6 +2228,15 @@
 				(hide yes)
 			)
 		)
+		(property "mpn" "SHT45-AD1B-R2"
+			(at 153.67 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3da00ebc-7c2f-4b21-b0b1-2a4c9f62c557")
 		)
@@ -2331,6 +2340,15 @@
 			)
 		)
 		(property "manufacturerPartNumber" "CGA3E2X7R1E104K080AA"
+			(at 194.31 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "CGA3E2X7R1E104K080AA"
 			(at 194.31 111.76 0)
 			(effects
 				(font
@@ -2444,6 +2462,15 @@
 				(hide yes)
 			)
 		)
+		(property "mpn" "CGA3E2X7R1E104K080AA"
+			(at 111.76 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e65fc7f9-5803-419a-b62d-55fd709e6e1e")
 		)
@@ -2531,6 +2558,15 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(property "mpn" "BC034-08-A-V-0150-L-C"
+			(at 248.92 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2647,6 +2683,15 @@
 				(hide yes)
 			)
 		)
+		(property "mpn" "TSL25911FN"
+			(at 180.34 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "aa19d701-e58a-44ae-9d08-3bf4bd902ef2")
 		)
@@ -2740,6 +2785,15 @@
 		)
 		(property "manufacturerPartNumber" "BME680"
 			(at 127 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "BME680"
+			(at 127 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)

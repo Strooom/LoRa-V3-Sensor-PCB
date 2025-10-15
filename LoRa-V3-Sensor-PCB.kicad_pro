@@ -581,6 +581,12 @@
           "label": "Description",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "mpn",
+          "name": "mpn",
+          "show": false
         }
       ],
       "filter_string": "",
