@@ -2321,7 +2321,7 @@
 				(hide yes)
 			)
 		)
-		(property "genericPartNumber" "GPC0603104-25-X7R"
+		(property "genericPartNumber" ""
 			(at 194.31 111.76 0)
 			(effects
 				(font
@@ -2426,7 +2426,7 @@
 				(hide yes)
 			)
 		)
-		(property "genericPartNumber" "GPC0603104-25-X7R"
+		(property "genericPartNumber" ""
 			(at 111.76 109.22 0)
 			(effects
 				(font
