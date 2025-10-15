@@ -6,7 +6,7 @@
     <tool>Eeschema 8.0.8+1</tool>
     <textvar name="majorVersion">0</textvar>
     <textvar name="minorVersion">5</textvar>
-    <textvar name="releaseDate">Wed Oct 15 09:52:12 2025</textvar>
+    <textvar name="releaseDate">Wed Oct 15 10:02:36 2025</textvar>
     <textvar name="releaseDateShort">2025-10-15</textvar>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -102,20 +102,20 @@
       <tstamps>8e20a7e5-33ea-4654-9f82-23248752351a</tstamps>
     </comp>
     <comp ref="IC1">
-      <value>BME690</value>
+      <value>BME680</value>
       <footprint>1projectfootprints:BME68X</footprint>
       <datasheet>https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME680-DS001.pdf</datasheet>
       <description>4-in-1 sensor, gas, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8</description>
       <fields>
         <field name="manufacturerName">Bosch Sensortec</field>
-        <field name="manufacturerPartNumber">BME690</field>
+        <field name="manufacturerPartNumber">BME680</field>
         <field name="Footprint">1projectfootprints:BME68X</field>
         <field name="Datasheet">https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME680-DS001.pdf</field>
         <field name="Description">4-in-1 sensor, gas, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8</field>
       </fields>
       <libsource lib="1projectsymbols" part="BME690" description="4-in-1 sensor, gas, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8"/>
       <property name="manufacturerName" value="Bosch Sensortec"/>
-      <property name="manufacturerPartNumber" value="BME690"/>
+      <property name="manufacturerPartNumber" value="BME680"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LoRa-V3-Sensor-PCB.kicad_sch"/>
       <property name="ki_keywords" value="Bosch gas pressure humidity temperature environment environmental measurement digital"/>
@@ -124,14 +124,14 @@
       <tstamps>b857761a-0aa3-42ff-98e0-d96cb74a97be</tstamps>
     </comp>
     <comp ref="IC2">
-      <value>SHT40-BD1B-R2</value>
+      <value>SHT45-AD1B-R2</value>
       <footprint>1projectfootprints:SHT4X</footprint>
       <datasheet>https://www.mouser.be/datasheet/2/682/Sensirion_Datasheet_SHT4x-2936319.pdf</datasheet>
       <description>Digital Relative Humidity Temperature Sensor</description>
       <fields>
         <field name="manufacturerName">Sensirion</field>
         <field name="octopartUrl">https://octopart.com/sht40-bd1b-r2-sensirion-137454263?r=sp</field>
-        <field name="manufacturerPartNumber">SHT40-BD1B-R2</field>
+        <field name="manufacturerPartNumber">SHT45-AD1B-R2</field>
         <field name="Footprint">1projectfootprints:SHT4X</field>
         <field name="Datasheet">https://www.mouser.be/datasheet/2/682/Sensirion_Datasheet_SHT4x-2936319.pdf</field>
         <field name="Description">Digital Relative Humidity Temperature Sensor</field>
@@ -139,7 +139,7 @@
       <libsource lib="1projectsymbols" part="SHT40" description="Digital Relative Humidity Temperature Sensor"/>
       <property name="manufacturerName" value="Sensirion"/>
       <property name="octopartUrl" value="https://octopart.com/sht40-bd1b-r2-sensirion-137454263?r=sp"/>
-      <property name="manufacturerPartNumber" value="SHT40-BD1B-R2"/>
+      <property name="manufacturerPartNumber" value="SHT45-AD1B-R2"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LoRa-V3-Sensor-PCB.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
